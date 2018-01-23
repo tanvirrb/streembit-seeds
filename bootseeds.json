@@ -1,10 +1,6 @@
-{
-    "bootseeds": [
-        { "address": "seed.streembit.uk" },
-        { "address": "seed.streembit.eu" },
-        { "address": "seed.streembit.net" },
-        { "address": "seed.streembit.co" },
-        { "address": "seed.streembit.biz" },
-        { "address": "seed.streembit.org" }
-    ]
-}
+[
+	{
+		"host": "176.31.122.115",
+		"port": 32319
+	}
+]
